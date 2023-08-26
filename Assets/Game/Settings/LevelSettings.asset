@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f422ba35f868444dbe7a3b13f8dc567, type: 3}
+  m_Name: LevelSettings
+  m_EditorClassIdentifier: 
+  playerSpawnPos: {x: 0, y: 0, z: -15}
+  levels:
+  - levelIndex: 0
+    platformData:
+    - platformIndex: 0
+      bridgePartAmount: 0
+      firstGroupAmount: 5
+      firstGroupColor:
+        serializedVersion: 2
+        rgba: 4287198992
+      secondGroupAmount: 20
+      secondGroupColor:
+        serializedVersion: 2
+        rgba: 4293067007
+    - platformIndex: 1
+      bridgePartAmount: 20
+      firstGroupAmount: 5
+      firstGroupColor:
+        serializedVersion: 2
+        rgba: 4285796489
+      secondGroupAmount: 10
+      secondGroupColor:
+        serializedVersion: 2
+        rgba: 4278220287
+  - levelIndex: 1
+    platformData:
+    - platformIndex: 0
+      bridgePartAmount: 0
+      firstGroupAmount: 20
+      firstGroupColor:
+        serializedVersion: 2
+        rgba: 4279273753
+      secondGroupAmount: 10
+      secondGroupColor:
+        serializedVersion: 2
+        rgba: 4278190335
+    - platformIndex: 1
+      bridgePartAmount: 20
+      firstGroupAmount: 20
+      firstGroupColor:
+        serializedVersion: 2
+        rgba: 4279273753
+      secondGroupAmount: 10
+      secondGroupColor:
+        serializedVersion: 2
+        rgba: 4278190335
+    - platformIndex: 2
+      bridgePartAmount: 20
+      firstGroupAmount: 20
+      firstGroupColor:
+        serializedVersion: 2
+        rgba: 4279273753
+      secondGroupAmount: 10
+      secondGroupColor:
+        serializedVersion: 2
+        rgba: 4278190335
+  - levelIndex: 2
+    platformData:
+    - platformIndex: 0
+      bridgePartAmount: 10
+      firstGroupAmount: 10
+      firstGroupColor:
+        serializedVersion: 2
+        rgba: 4288675584
+      secondGroupAmount: 5
+      secondGroupColor:
+        serializedVersion: 2
+        rgba: 4278218751
+    - platformIndex: 1
+      bridgePartAmount: 10
+      firstGroupAmount: 10
+      firstGroupColor:
+        serializedVersion: 2
+        rgba: 4285796489
+      secondGroupAmount: 5
+      secondGroupColor:
+        serializedVersion: 2
+        rgba: 4278220287
+    - platformIndex: 2
+      bridgePartAmount: 10
+      firstGroupAmount: 20
+      firstGroupColor:
+        serializedVersion: 2
+        rgba: 4287172686
+      secondGroupAmount: 10
+      secondGroupColor:
+        serializedVersion: 2
+        rgba: 4294963712
+    - platformIndex: 3
+      bridgePartAmount: 20
+      firstGroupAmount: 20
+      firstGroupColor:
+        serializedVersion: 2
+        rgba: 4279273753
+      secondGroupAmount: 10
+      secondGroupColor:
+        serializedVersion: 2
+        rgba: 4278190335
+    - platformIndex: 3
+      bridgePartAmount: 20
+      firstGroupAmount: 20
+      firstGroupColor:
+        serializedVersion: 2
+        rgba: 4279273753
+      secondGroupAmount: 10
+      secondGroupColor:
+        serializedVersion: 2
+        rgba: 4278190335
